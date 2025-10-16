@@ -1,0 +1,27 @@
+li:hover {
+  color:red;
+  background-color: aquamarine;
+
+}
+li {
+  text-align: left;
+
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  
+}
+#root {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 95.7vh;
+  border: 20px groove rgb(219, 169, 211);
+}
